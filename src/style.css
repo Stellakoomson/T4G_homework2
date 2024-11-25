@@ -1,0 +1,24 @@
+.intro img{
+    width: 30%;
+    /* height: 250px; */
+     border-radius:50%;
+}
+
+h1{ 
+    background-color: bisque;
+}
+ 
+.intro{
+    display: flex;
+}
+
+.intro3{
+    display: flex;
+    gap: 0px;
+}
+
+.text{
+    color: rgb(238, 179, 92);
+}
+
+button{ background-color: rgb(77, 77, 228);}
